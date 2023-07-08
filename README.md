@@ -5,13 +5,16 @@ Welcome to the Android Firmware Optimization Project for Mobile Networks Course 
 ## Project Overview
 
 The goal of this project is to optimize the firmware for Android with a focus on performance.
-We made the optimizations using Android Kitchen, then flashed the modified firmware on a Huawei Honor 8 phone using SP Flash tool and eventually benchmarked the results using Antutu.
+We made the optimizations using Android Kitchen, then flashed the modified firmware on a Huawei Honor 8 phone using SP Flash tool and eventually benchmarked the improvements using Antutu.
 
 ## Project Structure
 
 The repository is structured as follows:
 
 - `Firmware`: This is the link to our modified firmware on google drive.
+
+https://www.google.com/
+
 - `Documentation`: This pdf document contains the documentations of all the procedures and modifications done using Android Kitchen as well as the results of benchmarks for both the vanilla firmware and our modified version.
 
 ## Resources
