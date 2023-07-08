@@ -13,9 +13,9 @@ The repository is structured as follows:
 
 - `Firmware`: This is the link to our modified firmware on google drive.
 
-https://www.google.com/
+  https://drive.google.com/file/d/1f3cVy9P-5JOMKC1-x1eid77BzXcVsdOR/view
 
-- `Documentation`: This pdf document contains the documentations of all the procedures and modifications done using Android Kitchen as well as the results of benchmarks for both the vanilla firmware and our modified version.
+- `Documentation`: This pdf document contains the documentation of all the procedures and modifications done using Android Kitchen as well as the results of benchmarks for both the vanilla firmware and our modified version.
 
 ## Resources
 
